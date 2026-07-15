@@ -1,0 +1,6 @@
+{
+  "name": "Pati Petshop",
+  "description": "Pati Petshop için şık, animasyonlu, ses efektli ve görsel zenginliklere sahip satış ve analitik takip uygulaması.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
